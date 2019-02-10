@@ -1,8 +1,13 @@
 .main-content {
-    width: 433px;
+    max-width: 700px;
     padding: 100px 0 100px 0;
 }
 
 .main-content img {
+    max-width: 700px;
+}
+
+.links {
+    max-width: 380px;
     margin-bottom: 50px;
 }
